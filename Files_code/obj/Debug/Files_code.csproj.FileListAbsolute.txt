@@ -1,0 +1,13 @@
+D:\Research\Files code\Files_code\Files_code\bin\Debug\Files_code.exe.config
+D:\Research\Files code\Files_code\Files_code\bin\Debug\Files_code.exe
+D:\Research\Files code\Files_code\Files_code\bin\Debug\Files_code.pdb
+D:\Research\Files code\Files_code\Files_code\obj\Debug\Files_code.csprojResolveAssemblyReference.cache
+D:\Research\Files code\Files_code\Files_code\obj\Debug\Files_code.exe
+D:\Research\Files code\Files_code\Files_code\obj\Debug\Files_code.pdb
+C:\Users\NOURAN\Desktop\Files_code\Files_code\bin\Debug\Files_code.exe.config
+C:\Users\NOURAN\Desktop\Files_code\Files_code\bin\Debug\Files_code.exe
+C:\Users\NOURAN\Desktop\Files_code\Files_code\bin\Debug\Files_code.pdb
+C:\Users\NOURAN\Desktop\Files_code\Files_code\obj\Debug\Files_code.csproj.AssemblyReference.cache
+C:\Users\NOURAN\Desktop\Files_code\Files_code\obj\Debug\Files_code.csproj.CoreCompileInputs.cache
+C:\Users\NOURAN\Desktop\Files_code\Files_code\obj\Debug\Files_code.exe
+C:\Users\NOURAN\Desktop\Files_code\Files_code\obj\Debug\Files_code.pdb
